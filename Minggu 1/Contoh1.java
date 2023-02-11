@@ -6,6 +6,7 @@ public class Contoh1 {
         
         for(int i=1;i<=5;i++){
             System.out.println("Hello Jember");
+            System.out.println("Hello Banyuwangi");
         }
     }
     
